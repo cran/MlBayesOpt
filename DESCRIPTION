@@ -2,7 +2,7 @@ Package: MlBayesOpt
 Type: Package
 Title: Hyper Parameter Tuning for Machine Learning, Using Bayesian
         Optimization
-Version: 0.3.3
+Version: 0.3.4
 Authors@R: person("Yuya", "Matsumura", email = "mattu.yuya@gmail.com",
                   role = c("aut", "cre"))
 Maintainer: Yuya Matsumura <mattu.yuya@gmail.com>
@@ -25,7 +25,7 @@ URL: https://github.com/ymattu/MlBayesOpt
 BugReports: https://github.com/ymattu/MlBayesOpt/issues
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2017-10-23 12:17:54 UTC; yuya
+Packaged: 2019-03-20 07:04:30 UTC; matsumura
 Author: Yuya Matsumura [aut, cre]
 Repository: CRAN
-Date/Publication: 2017-10-23 13:14:12 UTC
+Date/Publication: 2019-03-20 09:13:24 UTC

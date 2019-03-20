@@ -58,7 +58,7 @@ knitr::opts_chunk$set(echo = TRUE,
 #                     classes = 10)
 
 ## ----cran-installation, eval = FALSE-------------------------------------
-#  install.packages("MlbayesOpt")
+#  install.packages("MlBayesOpt")
 
 ## ----gh-installation, eval = FALSE---------------------------------------
 #  # install.packages("githubinstall")
